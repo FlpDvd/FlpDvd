@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FlpDvd
+- 👀 I’m interested in web development and marketing
+- 🌱 I’m currently learning front end development
